@@ -5,13 +5,7 @@
   <version>1.0-SNAPSHOT</version>
   <name>Mortgage calculator project </name>
   <description>Basic Project Structure for a Maven Java project</description>
-</project>
 <dependencies>
-		<!--  <dependency>
-			<groupId>org.testng</groupId>
-			<artifactId>testng</artifactId>
-			<version>6.8.21</version>
-		</dependency> -->
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
@@ -31,3 +25,4 @@
 			</plugin>
 		</plugins>
 	</build>
+</project>
